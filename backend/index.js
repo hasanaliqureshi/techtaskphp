@@ -3,19 +3,18 @@ const express = require('express');
 const app = express();
 const port = 3001;
 
-// 1. GET DATA OF 5 USERS FROM THIS API (https://randomuser.me/api)
-
-// 2. SORT DATA TO RETURN JSON IN THIS FORMAT
-
-// 3. [
-//   {
-//     "first": "",
-//     "last": "",
-//     "city": "",
-//     "state": "",
-//     "country": ""
-//   } .....
-// ]
+/* 1. 
+CREATE AN API ROUTE AND GET DATA OF 5 USERS FROM THIS API (https://randomuser.me/api)
+SORT DATA AND RETURN JSON IN THIS FORMAT
+ [
+  {
+    "first": "",
+    "last": "",
+    "city": "",
+    "state": "",
+    "country": ""
+  } .....
+]*/
 
 
 
